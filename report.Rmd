@@ -5,3 +5,5 @@ output: html_document
 
 # Section 1
 This is the first paragraph.
+
+Another paragraph.
