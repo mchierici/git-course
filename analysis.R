@@ -1,7 +1,7 @@
 library(tidyverse)
 
 compute_stats <- function(x) {
-  c(m=mean(x))
+  c(m=mean(x), s=sd(x))
 }
 
 data("mtcars")
